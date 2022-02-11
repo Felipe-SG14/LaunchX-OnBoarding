@@ -63,5 +63,3 @@ Gravity on {0}: {2} m/s
 """.format(name,planet,gravity*1000)
 
 print(new_plantilla)
-
-
